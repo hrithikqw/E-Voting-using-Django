@@ -6,7 +6,7 @@ This E-Voting System is a secure web-based voting platform developed using Djang
 ## Tech Stack
 
  - Backend: Django, SQLite
- - Frontend: HTML, CSS, 
+ - Frontend: HTML, CSS
  - Framework: Django REST Framework
  - Version Control: Git, GitHub
 ## How to Run
